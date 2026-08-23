@@ -1,0 +1,8 @@
+[
+  {"name": "CAD & mechanical design", "level": 2, "max": 5, "note": "Onshape. Comfortable with sketches and extrudes; parametric modelling is next."},
+  {"name": "3D printing & manufacturing", "level": 2, "max": 5, "note": "Can slice and print. Calibration and tolerance work starts Week 5."},
+  {"name": "Materials & structures", "level": 2, "max": 5, "note": "Strongest area on the baseline diagnostic — 4 out of 5."},
+  {"name": "Electronics & sensors", "level": 1, "max": 5, "note": "Weeks 9 to 12. Arduino, then a real load cell."},
+  {"name": "Data & test method", "level": 1, "max": 5, "note": "Error bars, repeat trials, and not claiming things I haven't proved."},
+  {"name": "Aerodynamics", "level": 0, "max": 5, "note": "Weakest subject on the baseline — 1 out of 6. The whole back half of the season is this."}
+]
